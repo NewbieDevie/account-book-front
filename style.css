@@ -1,1 +1,15 @@
-/* init file */ 
+/* init file */
+
+.calendar-wrapper {
+	width: 500px;
+	height: 320px; 
+	background-color: red; 
+}
+.header-bar {
+	height: 50px;
+	background-color: blue;
+}
+
+.calender {
+
+} 
